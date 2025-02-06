@@ -8,7 +8,8 @@ In the Web3 field, AIDE deeply integrates the ability of AI code generation with
 
 Unlike traditional code generation tools such as cursor and Devin, AIDE does not focus primarily on improving development efficiency, but rather on empowering new development capabilities. By introducing agents and workflows, AIDE has achieved deep empowerment of AI, not only improving code writing efficiency, but more importantly, it can fill the knowledge blind spots of developers on a large scale, organically integrating front-end and back-end programming experience from different stages and fields, bringing comprehensive capability improvement to developers.
 
-![aide](https://github.com/user-attachments/assets/fa662519-6334-4226-8499-193e36410979)
+![aide](https://github.com/user-attachments/assets/4276a69e-5227-4dc7-b1a7-e56b6510ea02)
+
 ### What improvements have been made
 Firstly, we optimized the interface based on LLama encoder, and then optimized the mechanism of Agent workflow to make the code generation process smoother and more reasonable, greatly improving the success rate of code generation. The Agent part is still under continuous optimization and the code will be released soon. It has already been deployed in the commercial release version.
 

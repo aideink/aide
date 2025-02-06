@@ -1,27 +1,25 @@
-<a href="https://www.llamacoder.io">
-  <img alt="Llama Coder" src="./public/og-image.png">
-  <h1 align="center">Llama Coder</h1>
-</a>
+![robot2](https://github.com/user-attachments/assets/111c9d19-864e-48b7-bc89-5fc6c28b5160)
 
-<p align="center">
-  An open source Claude Artifacts – generate small apps with one prompt. Powered by Llama 3 on Together.ai.
-</p>
+# AIDE： Unleashing creativity, AI programmers with fully automated code generation
 
-## Tech stack
+AIDE is a zero code AI programmer platform. Users do not need to undergo professional programming training, they only need to constantly state the logic and structure, and can use AIDE's code generation capability to obtain the application software they need in a short period of time.
 
-- [Llama 3.1 405B](https://ai.meta.com/blog/meta-llama-3-1/) from Meta for the LLM
-- [Together AI](https://dub.sh/together-ai/?utm_source=example-app&utm_medium=llamacoder&utm_campaign=llamacoder-app-signup) for LLM inference
-- [Sandpack](https://sandpack.codesandbox.io/) for the code sandbox
-- Next.js app router with Tailwind
-- Helicone for observability
-- Plausible for website analytics
+In the Web3 field, AIDE deeply integrates the ability of AI code generation with decentralized networks to create the first intelligent programming environment (IDE) based on decentralized computing networks, with the ultimate goal of achieving 100% automated programming.
 
-## Cloning & running
+Unlike traditional code generation tools such as cursor and Devin, AIDE does not focus primarily on improving development efficiency, but rather on empowering new development capabilities. By introducing agents and workflows, AIDE has achieved deep empowerment of AI, not only improving code writing efficiency, but more importantly, it can fill the knowledge blind spots of developers on a large scale, organically integrating front-end and back-end programming experience from different stages and fields, bringing comprehensive capability improvement to developers.
 
-1. Clone the repo: `git clone https://github.com/Nutlope/llamacoder`
-2. Create a `.env` file and add your [Together AI API key](https://dub.sh/together-ai/?utm_source=example-app&utm_medium=llamacoder&utm_campaign=llamacoder-app-signup): `TOGETHER_API_KEY=`
-3. Run `npm install` and `npm run dev` to install dependencies and run locally
+### Reference project
+AIDE has referenced the code of the following open source projects. Thank you for their support:
 
-## Contributing
+* llama coder
+* Bolt.diy
+* together.ai
+* VUE
+* React
+* ElizaOS
 
-For contributing to the repo, please see the [contributing guide](./CONTRIBUTING.md)
+### Link Address：
+
+* Website：https://aide.ink
+* Twitter:  https://x.com/aide_ink
+* CA: 6MhvExQZPnvY1R13kwq4DSVotf7PMtXnELJ4JLG4pump
